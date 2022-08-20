@@ -1,2 +1,2 @@
-# Data-Science
+# Predit-Stroke-Disease
 Predict Stroke Disease
